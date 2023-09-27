@@ -1,4 +1,4 @@
----
+
 
 # REST Server with Node and Express
 
@@ -102,7 +102,6 @@ If you would like to contribute to this project, please follow these contributio
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
 
 Thank you for using this Node and Express REST server! If you have any questions or suggestions, please feel free to contact us.
 
